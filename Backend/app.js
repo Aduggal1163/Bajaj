@@ -8,6 +8,6 @@ app.use(cors());
 app.use(express.json());
 
 // Routes
-app.use("/api/v1", bfhlRoute);
+app.use("/", bfhlRoute);
 
 export default app;
