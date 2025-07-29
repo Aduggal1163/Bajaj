@@ -1,4 +1,4 @@
-import { processData } from "./Services/bfhlService.js";
+import { processData } from "../services/bfhlService.js";
 import { formatResponse } from "../Utils/responseFormatter.js";
 import { USER_INFO } from "../Constants/userInfo.js";
 

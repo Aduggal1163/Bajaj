@@ -1,5 +1,5 @@
 import express from "express";
-import { handleBFHL } from "../Controllers/bfhl.Controller.js";
+import { handleBFHL } from "../Controller/bfhl.Controller.js";
 
 const router = express.Router();
 
